@@ -1,10 +1,20 @@
 {
   "name": "purescript-rehtie",
+  "homepage": "https://github.com/adarqui/purescript-rehtie",
+  "description": "Values with two possibilities",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adarqui/purescript-rehtie.git"
+  },
   "ignore": [
     "**/.*",
-    "node_modules",
     "bower_components",
-    "output"
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
   ],
   "dependencies": {
     "purescript-either": "^0.2.3"
