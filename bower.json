@@ -1,0 +1,12 @@
+{
+  "name": "purescript-rehtie",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-either": "^0.2.3"
+  }
+}
